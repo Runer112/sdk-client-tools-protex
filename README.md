@@ -1,2 +1,2 @@
 # protex-sdk
-Protex SDK Client
+Protex SDK Client for Protex 7.02.
